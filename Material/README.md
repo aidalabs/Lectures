@@ -7,3 +7,11 @@
 
 
 ## 3. Deep Learning
+
+
+# **파이썬(Python) 강의 자료**
+
+
+
+
+# **스마트 퍀토리(Smart Factory) 강의 자료**
