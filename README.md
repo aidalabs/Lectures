@@ -1,5 +1,7 @@
 # **Lectures**
 
+### [강사 소개](./Instructor_Introduction.md)
+
 ![Lectures in 2022](./images/Lectures_in_2022.png)
 
 ### [2022.08.22~2022.10.20 인공지능 고급(시각)과정(대구)](./2022/20220822_CV.md)
