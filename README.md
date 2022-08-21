@@ -1,6 +1,6 @@
 # **Lectures**
 
-# $$\textcolor{blue}{\text{2022년}}$$
+![Lectures in 2022](./images/Lectures_in_2022.png)
 
 ### 2022.08.22~2022.10.20 인공지능 고급(시각)과정(대구)
   - 고객사: 한국IT비즈니스 진흥협회 / 동북권ICT이노베이션스퀘어(대구경북강원)
@@ -32,7 +32,7 @@
   - 강의시간: 주중 전일(8H/1D), 총 32H
 
 
-# $$\textcolor{blue}{\text{2021년}}$$
+![Lectures in 2022](./images/Lectures_in_2021.png)
 
 ### 2021.12.20~2021.12.23 KIAT 음성인식 기기제어 5회차
   - 고객사: KIAT / 글로벌 소프트웨어 캠퍼스(GSC)
@@ -95,7 +95,7 @@
   - 강의시간: 매주 수요일 저녁(2~3H/1D), 총 17H
 
 
-# $$\textcolor{blue}{\text{2020년}}$$
+![Lectures in 2022](./images/Lectures_in_2020.png)
 
 ### 2020.11.27~2020.11.28 2020 공개SW 대학생 체험캠프:한국교통대학교
   - 고객사: KOSSA
