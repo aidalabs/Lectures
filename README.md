@@ -73,7 +73,7 @@
   - 주제: Jetson Nano를 이용한 AI 기반 음성인식 기기제어
   - 강의시간: 주중 전일(7~8시간/일), 총 30시간
 
-### 2021.09.23, 2021.09.28 소공인-미래전략경영대학 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+### 2021.09.23, 2021.09.28 시흥시 소공인-미래전략경영대학 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
   - 고객사: 시흥산업진흥원 / (주)에이블런
   - 주제: 스마트 공장의 개념과 구축 방안 및 관련 기술, 디지털 트랜스포메이션
   - 강의시간: 주중 오후~저녁(3시간/일), 총 6시간
