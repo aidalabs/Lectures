@@ -1,5 +1,3 @@
-# **2022년 강의 내역**
-
 ![Lectures in 2022](../images/Lectures_in_2022.png)
 
 
