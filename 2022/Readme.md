@@ -1,6 +1,6 @@
 # **2022년 강의 내역**
 
-![Lectures in 2022](./images/Lectures_in_2022.png)
+![Lectures in 2022](../images/Lectures_in_2022.png)
 
 
 ### 2022.10.24~2022.11.11 기업멤버십 SW캠프-빅데이터전문가 양성과정 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
