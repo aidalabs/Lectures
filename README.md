@@ -6,7 +6,7 @@
 
 ### [2022.10.24~2022.11.11 기업멤버십 SW캠프-빅데이터전문가 양성과정](./2022/20221107-20221111_NLP(DMC-Kornet).md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
   - 고객사: 정보통신기획평가원(IITP) / 사단법인 디엠씨코넷 
-  - 주제: 파이썬을 이용한 자연어처리(40시간)
+  - 주제: 파이썬을 이용한 자연어처리
   - 강의시간: 주중 주간(8시간/일), 총 40시간
 
 ### [2022.10.24~2022.11.04 기업멤버십 SW캠프-빅데이터전문가 양성과정](./2022/20221024-20221104_DL(DMC-Kornet).md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
