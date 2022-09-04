@@ -1,6 +1,6 @@
 # Table of contents
 
-* [양석환](README.md)
+* [Lectures](README.md)
 * [강사소개](undefined.md)
 * [2021년 강의 내역](2021/Readme.md)
 * [2022년 강의 내역](2022/Readme.md)
