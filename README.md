@@ -4,7 +4,7 @@
 
 ![Lectures in 2022](images/Lectures\_in\_2022.png)
 
-### [2022.10.24\~2022.11.11 기업멤버십 SW캠프-빅데이터전문가 양성과정](images/) ![Generic badge](http://img.shields.io/badge/%EC%A4%80%EB%B9%84%EC%A4%91-success?style=plastic)
+### [2022.11.07\~2022.11.11 기업멤버십 SW캠프-빅데이터전문가 양성과정](images/) ![Generic badge](http://img.shields.io/badge/%EC%A4%80%EB%B9%84%EC%A4%91-success?style=plastic)
 
 * 고객사: 정보통신기획평가원(IITP) / 사단법인 디엠씨코넷
 * 주제: 파이썬을 이용한 자연어처리
