@@ -1,6 +1,6 @@
 # Lectures
 
-### [강사 소개](broken-reference)
+### [강사 소개](broken-reference) <a href="#undefined" id="undefined"></a>
 
 ![Lectures in 2022](images/Lectures\_in\_2022.png)
 
