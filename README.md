@@ -28,7 +28,7 @@
 * 주제: AI 데이터 사이언스 교육과정
 * 강의시간: 주중 주간(8시간/일), 총 80시간
 
-### [2022.08.22\~2022.09.05 인공지능 고급(시각)과정(대구)](2022/20220822-20220905\_CV\(ICT\).md) ![Generic badge](http://img.shields.io/badge/%EC%A7%84%ED%96%89%EC%A4%91-blue?style=plastic)
+### [2022.08.22\~2022.09.05 인공지능 고급(시각)과정(대구)](2022/20220822-20220905\_CV\(ICT\).md) ![Generic badge](http://img.shields.io/badge/%EC%A2%85%EB%A3%8C-red?style=plastic)
 
 * 고객사: 한국IT비즈니스 진흥협회 / 동북권ICT이노베이션스퀘어(대구경북강원), (주)알고링크
 * 주제: 실시간 Style Transfer 애플리케이션 개발
