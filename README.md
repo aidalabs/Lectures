@@ -22,7 +22,7 @@
 * 주제: 자연어처리(NLP) 인공지능 기술 학습과정
 * 강의시간: 주중 야간(3시간/일, 매주 화\~금), 총 24시간
 
-### [2022.09.26\~2022.10.11 2022년 AI 특화 맞춤형 교육](2022/20220920-20221004\_AI\&DS\(GSC\).md) ![Generic badge](http://img.shields.io/badge/%EC%A4%80%EB%B9%84%EC%A4%91-success?style=plastic)
+### [2022.09.26\~2022.10.11 2022년 AI 특화 맞춤형 교육](2022/20220920-20221004\_AI\&DS\(GSC\).md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
 
 * 고객사: 과학기술정보통신부, 광주광역시, 정보통신산업진흥원(NIPA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: AI 데이터 사이언스 교육과정
