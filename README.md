@@ -40,7 +40,7 @@
 * 주제: 고급 시각처리
 * 강의시간: 주중 야간(4시간/일), 총 20시간
 
-### 2022.07.28\~2022.09.08 인공지능 고급(언어)과정(경북) ![Generic badge](http://img.shields.io/badge/%EC%A7%84%ED%96%89%EC%A4%91-blue?style=plastic)
+### 2022.07.28\~2022.09.08 인공지능 고급(언어)과정(경북) ![Generic badge](http://img.shields.io/badge/%EC%A2%85%EB%A3%8C-red?style=plastic)
 
 * 고객사: 한국IT비즈니스 진흥협회 / 동북권ICT이노베이션스퀘어(대구경북강원), (주)알고링크
 * 주제: 고급 자연어처리
