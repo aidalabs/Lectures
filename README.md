@@ -16,7 +16,7 @@
 * 주제: 파이썬을 이용한 딥러닝
 * 강의시간: 주중 주간(8시간/일), 총 80시간
 
-### [2022.10.12\~2022.10.21 2022년 AI 특화 맞춤형 교육](2022/20221011-20221021\_NLP\(GSC\).md) ![Generic badge](http://img.shields.io/badge/%EC%A4%80%EB%B9%84%EC%A4%91-success?style=plastic)
+### [2022.10.12\~2022.10.21 2022년 AI 특화 맞춤형 교육](2022/20221011-20221021\_NLP\(GSC\).md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 고객사: 과학기술정보통신부, 광주광역시, 정보통신산업진흥원(NIPA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 자연어처리(NLP) 인공지능 기술 학습과정
