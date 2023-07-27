@@ -299,7 +299,7 @@
 
 * 주관: DevCon 2017 / Commax
 * 주제: 스마트 스페이스:왓슨의 대화 서비스 기반 스마트홈 구현
-* 시수: 2시간
+* 시수: 1시간
 
 #### 2017.08.?? 신라대학교 AI 특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
