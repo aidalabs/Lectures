@@ -281,6 +281,47 @@
 * 주제: 수식없이 배우는 인공지능과 딥러닝
 * 시수: 17시간
 
+---
+
+## **_Lectures in 2018_**
+
+#### 2018.08.14 신라대학교 AI 특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 신라대학교
+* 주제: 빅데이터, 퍼지, 인공지능
+* 시수: 2시간
+
+---
+
+## **_Lectures in 2017_**
+
+#### 2017.11.06 DevCon 2017 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: DevCon 2017 / Commax
+* 주제: 스마트 스페이스:왓슨의 대화 서비스 기반 스마트홈 구현
+* 시수: 2시간
+
+#### 2017.08.?? 신라대학교 AI 특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 신라대학교
+* 주제: 빅데이터, 퍼지, 인공지능
+* 시수: 2시간
+
+---
+
+## **_Lectures in 2014_**
+
+#### 2014.03.02\~2014.07.31 국립부경대학교 자바프로그래밍 1학기 전공필수과정 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 국립부경대학교
+* 주제: 자바프로그래밍
+* 시수: 1학기
+
+#### 2014.03.02\~2014.07.31 동명대학교 인터넷 창업과 운영 1학기 교양과정 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 동명대학교
+* 주제: 인터넷 창업과 운영
+* 시수: 1학기
 
 ---
 Badge: ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic) 
