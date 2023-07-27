@@ -1,6 +1,6 @@
 # **_Lectures_**
 
-### [강사 소개](broken-reference) <a href="#undefined" id="undefined"></a>
+### [강사 소개](./tutor.md)</a>
 
 ## **_Lectures in 2023_**
 
