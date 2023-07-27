@@ -64,7 +64,7 @@
 * 주제: 섬유패션 AI기반 품질 검사 알고리즘 이해 및 컴퓨터 비전(고급)
 * 시수: 30시간
   
-#### 2023.08.07\~2023.08.18 중앙대학교 공학교육혁신센터 하기특강 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.08.07\~2023.08.18 중앙대학교 공학교육혁신센터 하기특강](./2023/20230807-20230818_CAU.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: 중앙대학교 / 메디치이앤에스(주)
 * 주제: 파이썬을 활용한 AI 입문-영상인식(사진)특화 교육
