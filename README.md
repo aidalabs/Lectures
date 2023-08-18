@@ -4,18 +4,6 @@
 
 ## **_Lectures in 2023_**
 
-#### 2023.12.18\~2023.12.20 강화학습, 기본 개념에서 자율주행 레이싱까지 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
-
-* 주관: 멀티캠퍼스 / (주)글로벌 소프트웨어 캠퍼스
-* 주제: 강화학습, 기본 개념에서 자율주행 레이싱까지
-* 시수: 21시간
-
-#### 2023.11.20\~2023.11.22 딥러닝 컴퓨터비전-OpenCV부터 최신기술까지 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
-
-* 주관: 멀티캠퍼스 / (주)글로벌 소프트웨어 캠퍼스
-* 주제: 딥러닝 컴퓨터비전-OpenCV부터 최신기술까지
-* 시수: 21시간
-  
 #### 2023.11.08\~2023.11.09 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: (주)글로벌 소프트웨어 캠퍼스
@@ -69,12 +57,6 @@
 * 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 한국섬유산업연합회, 표준협회(KSA) / (주)글로벌 소프트웨어 캠퍼스, 알고링크
 * 주제: 섬유패션 AI기반 품질 검사 알고리즘 이해 및 컴퓨터 비전(고급)
 * 시수: 30시간
-
-#### [2023.08.19\~2023.10.29 AI 중급 주말 과정](./2023/20230819-20231029_ICT.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
-
-* 주관: 한국IT비즈니스 진흥협회 / 서울ICT이노베이션스퀘어, (주)알고링크
-* 주제: 딥러닝 모델 설계 및 응용 - AI 중급
-* 시수: 160시간
   
 #### [2023.08.07\~2023.08.18 중앙대학교 공학교육혁신센터 하기특강](./2023/20230807-20230818_CAU.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
