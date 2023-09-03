@@ -36,7 +36,7 @@
   
 #### [2023.09.15\~2023.09.21 특성화 고등학교 대상 인공지능 관련 교육](./2023/20230915-20230921_ICT.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
-* 주관: -- / --, (주)알고링크
+* 주관: ICT / (주)알고링크
 * 주제: ChatGPT, Stable Diffusion, Web UI, Ornage3
 * 시수: 35시간
   
