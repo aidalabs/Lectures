@@ -40,9 +40,9 @@
 * 주제: ChatGPT, Stable Diffusion, Web UI, Ornage3
 * 시수: 35시간
   
-#### 2023.09.12\~2023.09.13 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.09.12\~2023.09.13 2023년 AI특화 맞춤형 교육](./2023/20230912-20230913_MC_Stat.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
-* 주관: (주)글로벌 소프트웨어 캠퍼스
+* 주관: 멀티캠퍼스 / (주)글로벌 소프트웨어 캠퍼스
 * 주제: AI 알고리즘 이해를 위한 통계학습
 * 시수: 15시간
   
