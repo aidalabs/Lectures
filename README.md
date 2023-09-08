@@ -46,7 +46,7 @@
 * 주제: AI 알고리즘 이해를 위한 통계학습
 * 시수: 15시간
   
-#### [2023.09.04\~2023.09.06 실전! 파이토치로 배우는 딥러닝](./2023/20230904-20230906_MC_Torch.md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
+#### [2023.09.04\~2023.09.06 실전! 파이토치로 배우는 딥러닝](./2023/20230904-20230906_MC_Torch.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 멀티캠퍼스 / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 실전! 파이토치로 배우는 딥러닝
