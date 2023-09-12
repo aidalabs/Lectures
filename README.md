@@ -4,6 +4,12 @@
 
 ## **_Lectures in 2023_**
 
+#### 2023.11.18\~2023.11.23 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+
+* 주관: (주)글로벌 소프트웨어 캠퍼스
+* 주제: 실무 프로젝트 기반의 자연어처리 모델 학습
+* 시수: 46시간
+* 
 #### 2023.11.08\~2023.11.09 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: (주)글로벌 소프트웨어 캠퍼스
