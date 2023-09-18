@@ -40,13 +40,13 @@
 * 주제: 쉽게 이해할 수 있는 데이터 과학
 * 시수: 14시간
   
-#### [2023.09.15\~2023.09.21 특성화 고등학교 대상 인공지능 관련 교육](./2023/20230915-20230921_ICT.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.09.15\~2023.09.21 특성화 고등학교 대상 인공지능 관련 교육](./2023/20230915-20230921_ICT.md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
 
 * 주관: ICT / (주)알고링크
 * 주제: ChatGPT, Stable Diffusion, Web UI, Ornage3
 * 시수: 35시간
   
-#### [2023.09.12\~2023.09.13 2023년 AI특화 맞춤형 교육](./2023/20230912-20230913_MC_Stat.md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
+#### [2023.09.12\~2023.09.13 2023년 AI특화 맞춤형 교육](./2023/20230912-20230913_MC_Stat.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 멀티캠퍼스 / (주)글로벌 소프트웨어 캠퍼스
 * 주제: AI 알고리즘 이해를 위한 통계학습
