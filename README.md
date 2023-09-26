@@ -34,7 +34,7 @@
 * 주제: 라즈베리파이를 이용한 음성인식 기반 자율주행 자동차 구현
 * 시수: 30시간
   
-#### [2023.10.10\~2023.10.11 2023년 AI특화 맞춤형 교육](./2023/20231010-20231011_DS.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.10.10\~2023.10.11 2023년 AI특화 맞춤형 교육](./2023/20231010-20231011_GSC_DS.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: (주)글로벌 소프트웨어 캠퍼스
 * 주제: 쉽게 이해할 수 있는 데이터 과학
