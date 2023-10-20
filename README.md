@@ -27,7 +27,7 @@
 * 주제: 데이터 시각화 방법 이해와 역량 강화
 * 시수: 24시간
 
-#### [2023.10.24\~2023.10.27 2023년 AI융합 IoT가전 혁신역량강화 교육(3차)](./2023/20231024-20231027_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.10.19\~2023.10.27 2023년 AI융합 IoT가전 혁신역량강화 교육(3차)](./2023/20231019-20231027_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 지능정보산업협회(AIIA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 라즈베리파이를 이용한 음성인식 기반 자율주행 자동차 구현
