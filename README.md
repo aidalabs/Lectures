@@ -3,13 +3,13 @@
 ### [강사 소개](./tutor.md)
 ## **_Lectures in 2023_**
 
-#### [2023.11.18\~2023.11.23 2023년 AI특화 맞춤형 교육](./2023/20231118-20231123_GSC_NLP.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2023.11.18\~2023.11.23 2023년 AI특화 맞춤형 교육](./2023/20231118-20231123_GSC_NLP.md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
 
 * 주관: 인공지능산업융합사업단(AICA), (주)글로벌 소프트웨어 캠퍼스
 * 주제: 실무 프로젝트 기반의 자연어처리 모델 학습
 * 시수: 46시간
 
-#### [2023.11.14\~2023.11.17 2023년 AI융합 IoT가전 혁신역량강화 교육(4차)](./2023/20231114-20231117_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
+#### [2023.11.14\~2023.11.17 2023년 AI융합 IoT가전 혁신역량강화 교육(4차)](./2023/20231114-20231117_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 지능정보산업협회(AIIA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 라즈베리파이를 이용한 음성인식 기반 자율주행 자동차 구현
