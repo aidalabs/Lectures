@@ -21,19 +21,19 @@
 * 주제: 데이터 시각화 방법 이해와 역량 강화
 * 시수: 24시간
 
-#### [2023.10.19\~2023.10.27 2023년 AI융합 IoT가전 혁신역량강화 교육(3차)](./2023/20231019-20231027_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+#### 2023.10.19\~2023.10.27 2023년 AI융합 IoT가전 혁신역량강화 교육(3차) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 지능정보산업협회(AIIA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 라즈베리파이를 이용한 음성인식 기반 자율주행 자동차 구현
 * 시수: 30시간
   
-#### [2023.10.17\~2023.10.25 2023년 AI융합 IoT가전 혁신역량강화 교육(2차)](./2023/20231017-20231025_GSC_IoT.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+#### 2023.10.17\~2023.10.25 2023년 AI융합 IoT가전 혁신역량강화 교육(2차) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 지능정보산업협회(AIIA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 라즈베리파이를 이용한 음성인식 기반 자율주행 자동차 구현
 * 시수: 30시간
   
-#### [2023.10.10\~2023.10.11 2023년 AI특화 맞춤형 교육](./2023/20231010-20231011_GSC_DS.md) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+#### 2023.10.10\~2023.10.11 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 인공지능산업융합사업단(AICA), (주)글로벌 소프트웨어 캠퍼스
 * 주제: 쉽게 이해할 수 있는 데이터 과학
