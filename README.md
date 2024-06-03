@@ -4,21 +4,21 @@
 
 ## **_Lectures in 2024_**
 
-#### 2024.06.27\~2024.12.13 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### 2024.06.27\~2024.12.13 백엔드 스쿨 11기: 파이썬 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: 멋쟁이 사자처럼
 * 주제: 백엔드 스쿨 11기: 파이썬
 * 시수: 920시간
 
-#### 2024.06.17\~2024.06.18  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### 2024.06.17\~2024.06.18 머신러닝 기초  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
 * 주관: 롯데카드
 * 주제: 머신러닝 기초
 * 시수: 14시간
 
-#### 2024.06.03\~2024.06.14  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+#### [2024.06.03\~2024.06.14 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정](./2024/20240603-20240614_IPA_CCTV.md) ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
-* 주관: 한국IT비즈니스진흥협회(iPA)
+* 주관: 한국IT비즈니스진흥협회(iPA) / 동북ICT
 * 주제: 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정
 * 시수: 40시간
 
