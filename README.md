@@ -4,6 +4,59 @@
 
 ## **_Lectures in 2024_**
 
+#### 2024.06.27\~2024.12.13 ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+
+* 주관: 멋쟁이 사자처럼
+* 주제: 백엔드 스쿨 11기: 파이썬
+* 시수: 920시간
+
+#### 2024.06.17\~2024.06.18  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+
+* 주관: 롯데카드
+* 주제: 머신러닝 기초
+* 시수: 14시간
+
+#### 2024.06.03\~2024.06.14  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
+
+* 주관: 한국IT비즈니스진흥협회(iPA)
+* 주제: 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정
+* 시수: 40시간
+
+#### 2024.05.20\~2024.05.31 현대모비스 AIM OJT 7기 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 현대모비스 / 코드스테이츠
+* 주제: 프로젝트 기반 데이터분석 실무: 파이썬 ~ 데이터분석 프로세스 개요 ~ 데이터 전처리
+* 시수: 80시간
+
+#### 2024.05.14\~2024.05.18 국립안동대학교 SW융합교육원 SW릴레이 특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 국립안동대학교
+* 주제: 인공지능 관점에서 데이터베이스 및 처리
+* 시수: 14시간
+
+#### 2024.05.06 국립안동대학교 SW융합교육원 SW특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 국립안동대학교
+* 주제: 생성형 AI 기반의 문화콘텐츠 개발
+* 시수: 2시간  
+ 
+#### 2024.03.28\~2024.4.19 삼성전자 신입사원 교육 8차 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 삼성전자
+* 주제: 신입사원 기초 교육(파이썬, AI/딥러닝, 데이터베이스, 데이터분석, 스마트팩토리)
+* 시수: 68시간
+
+#### 2024.03.05\~2024.03.22 SSAFY(Samsung SW Academy For Youth) 특화프로젝트 전문가 리뷰 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 삼성 청년 SW아카데미 / 멀티캠퍼스
+* 주제: 프로젝트 전문가 리뷰
+* 시수: 7시간  
+
+#### 2024.02.22\~2024.3.14 삼성전자 신입사원 교육 4차 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+
+* 주관: 삼성전자
+* 주제: 신입사원 기초 교육(파이썬, AI/딥러닝, 데이터베이스, 데이터분석, 스마트팩토리)
+* 시수: 68시간
 
 ## **_Lectures in 2023_**
 
