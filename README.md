@@ -6,19 +6,19 @@
 
 #### [2024.06.27\~2024.12.13 백엔드 스쿨 11기: 파이썬](./2024/20240627-20241213_LikeLion_BackEnd.md)  ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic)
 
-* 주관: 멋쟁이 사자처럼
+* 주관: 멋쟁이 사자처럼 / (주)알고링크
 * 주제: 백엔드 스쿨 11기: 파이썬
 * 시수: 920시간
 
 #### 2024.06.03\~2024.06.14 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 한국IT비즈니스진흥협회(iPA) / 동북ICT
+* 주관: 한국IT비즈니스진흥협회(iPA) / 동북ICT, (주)알고링크
 * 주제: 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정
 * 시수: 40시간
 
 #### 2024.05.20\~2024.05.31 현대모비스 AIM OJT 7기 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 현대모비스 / 코드스테이츠
+* 주관: 현대모비스 / (주)코드스테이츠
 * 주제: 프로젝트 기반 데이터분석 실무: 파이썬 ~ 데이터분석 프로세스 개요 ~ 데이터 전처리
 * 시수: 80시간
 
@@ -36,19 +36,19 @@
  
 #### 2024.03.28\~2024.4.19 삼성전자 신입사원 교육 8차 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 삼성전자
+* 주관: 삼성전자 / (주)워카
 * 주제: 신입사원 기초 교육(파이썬, AI/딥러닝, 데이터베이스, 데이터분석, 스마트팩토리)
 * 시수: 68시간
 
 #### 2024.03.05\~2024.03.22 SSAFY(Samsung SW Academy For Youth) 특화프로젝트 전문가 리뷰 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 삼성 청년 SW아카데미 / 멀티캠퍼스
+* 주관: 삼성 청년 SW아카데미 / (주)멀티캠퍼스
 * 주제: 프로젝트 전문가 리뷰
 * 시수: 7시간  
 
 #### 2024.02.22\~2024.3.14 삼성전자 신입사원 교육 4차 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 삼성전자
+* 주관: 삼성전자 / (주)워카
 * 주제: 신입사원 기초 교육(파이썬, AI/딥러닝, 데이터베이스, 데이터분석, 스마트팩토리)
 * 시수: 68시간
 
@@ -56,13 +56,13 @@
 
 #### 2023.11.27\~2023.12.03 2023 스마트제조 고급인력 양성사업: 동영상 강의 녹화 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 한국IT비즈니스진흥협회(iPA)
+* 주관: 한국IT비즈니스진흥협회(iPA) / (주)알고링크
 * 주제: 스마트 팩토리와 제조 시스템의 이해 및 구축
 * 시수: 5시간
 
 #### 2023.11.18\~2023.11.23 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 인공지능산업융합사업단(AICA), (주)글로벌 소프트웨어 캠퍼스
+* 주관: 인공지능산업융합사업단(AICA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 실무 프로젝트 기반의 자연어처리 모델 학습
 * 시수: 46시간
 
@@ -92,13 +92,13 @@
   
 #### 2023.10.10\~2023.10.11 2023년 AI특화 맞춤형 교육 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 인공지능산업융합사업단(AICA), (주)글로벌 소프트웨어 캠퍼스
+* 주관: 인공지능산업융합사업단(AICA) / (주)글로벌 소프트웨어 캠퍼스
 * 주제: 쉽게 이해할 수 있는 데이터 과학
 * 시수: 14시간
   
 #### 2023.09.15\~2023.09.21 특성화 고등학교 대상 인공지능 관련 교육 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 서울디지텍고등학교 / 한국능률협회컨설팅(KMAC)
+* 주관: 서울디지텍고등학교 / 한국능률협회컨설팅(KMAC), (주)알고링크
 * 주제: AI/딥러닝 개요, 자연어처리, ChatGPT, Stable Diffusion Web UI, Ornage3
 * 시수: 35시간
   
@@ -116,7 +116,7 @@
   
 #### 2023.08.23\~2023.08.25, 2023.08.31\~2023.09.01 섬유패션사업 AI융합형 인재양성사업 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 한국섬유산업연합회, 표준협회(KSA) / (주)글로벌 소프트웨어 캠퍼스, 알고링크
+* 주관: 산업통상자원부, 한국산업기술진흥원(KIAT), 한국섬유산업연합회, 표준협회(KSA) / (주)글로벌 소프트웨어 캠퍼스, (주)알고링크
 * 주제: 섬유패션 AI기반 품질 검사 알고리즘 이해 및 컴퓨터 비전(고급)
 * 시수: 30시간
   
@@ -140,7 +140,7 @@
  
 #### 2023.05.23\~2023.05.27 국립안동대학교 SW융합교육원 SW특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 국립안동대학교 / 알고링크
+* 주관: 국립안동대학교 / (주)알고링크
 * 주제: 글로벌 오픈소스 프로젝트 개발 참여(기본)
 * 시수: 15시간
 
@@ -152,26 +152,26 @@
  
 #### 2023.05.02\~2023.05.06 국립안동대학교 SW융합교육원 SW특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 국립안동대학교 / 알고링크
+* 주관: 국립안동대학교 / (주)알고링크
 * 주제: AI/BigData - 데이터 수집과 데이터 마이닝
 * 시수: 15시간
 
 #### 2023.05.01 국립안동대학교 SW융합교육원 SW특강 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 국립안동대학교
+* 주관: 국립안동대학교 / (주)알고링크
 * 주제: AI와 ChatGPT, 산업에서 문화까지 어떻게 흘러왔을까
 * 시수: 2시간  
  
 
 #### 2023.03.20\~2023.03.21 SSAFY(Samsung SW Academy For Youth) 특화프로젝트 전문가 리뷰(2차) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 삼성 청년 SW아카데미 / 멀티캠퍼스
+* 주관: 삼성 청년 SW아카데미 / (주)멀티캠퍼스
 * 주제: 프로젝트 전문가 리뷰
 * 시수: 7시간  
 
 #### 2023.03.06\~2023.03.07 SSAFY(Samsung SW Academy For Youth) 특화프로젝트 전문가 리뷰(1차) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: 삼성 청년 SW아카데미 / 멀티캠퍼스
+* 주관: 삼성 청년 SW아카데미 / (주)멀티캠퍼스
 * 주제: 프로젝트 전문가 리뷰
 * 시수: 7시간  
 
@@ -353,7 +353,7 @@
 
 #### 2017.11.06 DevCon 2017 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
-* 주관: DevCon 2017 / Commax
+* 주관: DevCon 2017 / (주)코맥스
 * 주제: 스마트 스페이스:왓슨의 대화 서비스 기반 스마트홈 구현
 * 시수: 1시간
 
