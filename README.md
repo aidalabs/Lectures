@@ -10,7 +10,7 @@
 * 주제: 백엔드 스쿨 11기: 파이썬
 * 시수: 920시간
 
-#### 2024.06.03\~2024.06.14 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정 ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
+**2024.06.03\~2024.06.14 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정** ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 한국IT비즈니스진흥협회(iPA) / 동북ICT, (주)알고링크
 * 주제: 고속도로 CCTV 기반 차종 인식 프로젝트 교육과정
