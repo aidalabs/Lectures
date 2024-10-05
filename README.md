@@ -2,6 +2,7 @@
 
 ### [강사 소개](./tutor.md)
 
+---
 ## **_Lectures in 2024_**
 
 #### [2024.06.27\~2024.12.13 백엔드 스쿨 11기: 파이썬](./2024/20240627-20241213_LikeLion_BackEnd.md)  ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
@@ -52,6 +53,7 @@
 * 주제: 신입사원 기초 교육(파이썬, AI/딥러닝, 데이터베이스, 데이터분석, 스마트팩토리)
 * 시수: 68시간
 
+---
 ## **_Lectures in 2023_**
 
 **2023.11.27\~2023.12.03 2023 스마트제조 고급인력 양성사업: 동영상 강의 녹화** ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
