@@ -382,4 +382,15 @@
 * 시수: 1학기
 
 ---
+# **Curriculum**
+
+## 1.파이썬
+
+- [파이썬 기초 문법](http://naver.me/GV2mlxA5)
+- [파이썬 기초 문법 실습(Github))][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidalabs/Lectures/blob/main/LectureFiles/src/NLP021_VectorDB_ChromaDB.ipynb)
+- [파이썬 기초 문법 실습(MyBox)][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/naver.me/FA2H9CtI)
+---
+
+Badge: ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic) 
+---
 Badge: ![Generic badge](http://img.shields.io/badge/준비중-success?style=plastic) ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic) ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic) 
