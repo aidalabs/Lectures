@@ -15,7 +15,7 @@ International License][cc-by-nc-sa].
 ---
 ## **_Lectures in 2024_**
 
-#### [2024.06.27\~2024.12.13 백엔드 스쿨 11기: 파이썬](./2024/20240627-20241213_LikeLion_BackEnd.md)  ![Generic badge](http://img.shields.io/badge/진행중-blue?style=plastic)
+**2024.06.27\~2024.12.13 백엔드 스쿨 11기: 파이썬** ![Generic badge](http://img.shields.io/badge/종료-red?style=plastic)
 
 * 주관: 멋쟁이 사자처럼 / (주)알고링크
 * 주제: 백엔드 스쿨 11기: 파이썬
